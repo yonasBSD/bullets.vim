@@ -319,7 +319,7 @@ let g:bullets_checkbox_partials_toggle = 0
 * Promote a bullet (unindent it and increase the bullet level):
   + NORMAL mode: `<<`
   + INSERT mode: `<C-d>`
-  + VISUAL mode: `>`
+  + VISUAL mode: `<`
 
 Disable default mappings:
 
